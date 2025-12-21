@@ -1,0 +1,37 @@
+.time,.status{
+      width:300px;
+      font-size:20px;
+      margin: 10px 0;
+}
+
+.editModalContent{
+      display:flex;
+}
+.contentTitle{
+      min-width: max-content;
+      font-size:20px;
+      height:50px;
+}
+.editContent{
+      width:300px;
+      height:200px;
+      font-size:20px;
+}
+
+
+.statusCheckBox{
+      width:20px;
+      height:20px;
+}
+.submitBtn{
+      width:70px;
+      height:40px;
+      position:absolute;
+      left:145px;
+      bottom:13px;
+      font-size:20px;
+      color:white;
+      background-color:rgb(65, 98, 219);
+      border:0px;
+      border-radius:3px;
+}
