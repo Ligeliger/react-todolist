@@ -1,0 +1,40 @@
+.todoList{
+  padding:13px;
+  margin:0;
+  overflow:scroll;
+  height:600px;
+}
+.APP{
+  position:relative;
+}
+.searchInputBox{
+width:100%;
+height:35px;
+display:flex;
+padding:10px 20px;
+
+}
+.searchInputBox  svg{
+  width: 30px;
+  height: 30px;
+  color: black;
+}
+
+.searchInput{
+width:300px;
+height:30px;
+line-height:30px;
+margin:0 10px;
+}
+
+.clearKeyword{
+      margin:0 10px;/* 上下 左右 */
+      width:50px;
+      height:30px;
+      background-color:rgb(65, 98, 219);
+      font-size:15px;
+      text-align:center;
+      line-height:30px;
+      border-radius:3px;
+      color:white;
+}
